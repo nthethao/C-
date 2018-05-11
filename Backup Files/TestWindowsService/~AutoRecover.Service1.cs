@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Timers;
 using TestWindowsService;
 
-namespace WindowsService1
+namespace WindowsService1git 
 {
     public partial class Service1 : ServiceBase
     {
