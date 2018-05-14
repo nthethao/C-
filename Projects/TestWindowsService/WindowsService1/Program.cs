@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsService1
+namespace ConsoleApplication1
 {
     static class Program
     {
